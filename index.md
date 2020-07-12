@@ -4,7 +4,8 @@ Get it on the App Store! Link will follow.
 
 ### Your data 
 
-PencilSign will not upload any data anywhere, unless to chose so by using the share button
+PencilSign will not upload any data anywhere, unless you choose to do so by using the share button.
+No usage data will be collected unless activated in iOS. 
 
 ### Support or Contact
 
