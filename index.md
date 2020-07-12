@@ -9,4 +9,4 @@ No usage data will be collected unless activated in iOS.
 
 ### Support or Contact
 
-If you need support for PencilSign, please create an issue here or email me at pencilsign |@| posteo.de
+If you need support for PencilSign, please create an issue[https://github.com/retterdesapok/PencilSignSite/] here or email me at pencilsign +@posteo.de
