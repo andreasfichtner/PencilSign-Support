@@ -1,6 +1,6 @@
 ## Welcome to PencilSign
 
-Get it on the App Store! Link will follow.
+[Get it on the App Store!](https://apps.apple.com/us/app/id1517298794)
 
 ### Your data and privacy
 
